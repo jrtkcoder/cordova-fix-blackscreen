@@ -1,14 +1,39 @@
 {
- "name": "cordova-fix-blackscreen",
-  "version": "0.0.1",
-  "description": "demo",
+  "_from": "git+https://github.com/jrtkcoder/cordova-fix-blackscreen.git",
+  "_id": "cordova-fix-blackscreen@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-P3Nw5y8xJEMnINe4kfOv+5/H0ow=",
+  "_location": "/cordova-fix-blackscreen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/jrtkcoder/cordova-fix-blackscreen.git",
+    "rawSpec": "https://github.com/jrtkcoder/cordova-fix-blackscreen.git",
+    "saveSpec": "git+https://github.com/jrtkcoder/cordova-fix-blackscreen.git",
+    "fetchSpec": "https://github.com/jrtkcoder/cordova-fix-blackscreen.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/jrtkcoder/cordova-fix-blackscreen.git#f8408c5573f4bb287e80c11e8fde12073a478af7",
+  "_spec": "https://github.com/jrtkcoder/cordova-fix-blackscreen.git",
+  "_where": "D:\\lvzhimin\\cordova\\renlian_cordova_app",
+  "author": {
+    "name": "demo"
+  },
+  "bundleDependencies": false,
   "cordova": {
     "id": "com.woodstream.cordova.fix.blackscreen",
     "platforms": [
       "android"
     ]
   },
+  "deprecated": false,
+  "description": "demo",
   "keywords": [],
-  "author": "demo",
-  "license": "MIT"
+  "license": "MIT",
+  "name": "cordova-fix-blackscreen",
+  "version": "0.0.1"
 }
